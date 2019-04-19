@@ -1,4 +1,4 @@
-# GestionTecnologicaUnac
+# Gestion Tecnologica Unac  
 ## Integrantes
 * Alberto Navarro Reyes
 * Joseph Güere Solorzano
